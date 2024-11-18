@@ -1,6 +1,6 @@
 # Docker Basics
 
-Repositório para absorver conceitos básicos relativos ao uso Docker etc.
+Repositório para me familiarizar e absorver conceitos básicos relativos ao uso Docker etc.
 
 ## 1. Docker Architecture
 <div align="center">
